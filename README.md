@@ -12,3 +12,8 @@ Used components:
 * 3 resistors at 220 ohms: [1](http://ali.pub/4a7e26) [2](http://ali.pub/4a7e2r) [3](http://ali.pub/4a7e3q)
 * Case 115x90x55 or other suitable: [1](http://ali.pub/360jhj) [2](http://ali.pub/360jib)
 * 3 light-emitting diodes, wires and other trifles
+
+User tools:
+* Soldering iron: [1](http://ali.pub/4e748k) [2](http://ali.pub/4e74b3) [3](http://ali.pub/4e74d1)
+* 3D-printer: [1](http://ali.pub/4a5xti) [2](http://ali.pub/4a5xuv) [3](http://ali.pub/4a5xxs)
+* Wire stripping and crimping tool: [1](http://ali.pub/4e75o3) [2](http://ali.pub/4e75qm) [3](http://ali.pub/4e75sk)
